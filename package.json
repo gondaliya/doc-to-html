@@ -1,0 +1,16 @@
+{
+  "name": "doc2html",
+  "version": "1.0.0",
+  "description": "doc to html converter api",
+  "main": "index.js",
+  "dependencies": {
+    "mammoth-style": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ketan gondaliya",
+  "license": "ISC"
+}
